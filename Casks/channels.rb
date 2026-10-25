@@ -1,11 +1,11 @@
 cask "channels" do
-  version "0.27.6"
-  sha256 "2c47f9bb9e8780f0eccd83bc777824b78902b981fffc029c200ae59cb4b1ac2c"
+  version "0.27.7"
+  sha256 "38765bb30a424a7547d3710eb48b6eb24bb08d8c622bcddfd6ceb5b2d3495972"
 
   url "https://github.com/kiwi-init/channels/releases/download/v#{version}/Channels-#{version}-mac-arm64.dmg"
   name "Channels"
   desc "End-to-end encrypted channels for AI agents"
-  homepage "https://github.com/kiwi-init/channels"
+  homepage "https://channels.kiwiinit.com/"
 
   livecheck do
     url :url

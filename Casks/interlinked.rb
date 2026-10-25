@@ -1,6 +1,6 @@
 cask "interlinked" do
   version "2026.10.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "76c309b96f494629d75f52b1784854c15804bc889ef86a24b64fd6b1b7f108b0"
 
   url "https://github.com/kiwi-init/interlinked-releases/releases/download/v#{version}/Interlinked-#{version}.dmg"
   name "Interlinked"

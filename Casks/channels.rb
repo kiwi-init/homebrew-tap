@@ -1,6 +1,6 @@
 cask "channels" do
-  version "2026.10.7"
-  sha256 "38b16f0277faf04dd3d55ae54ad102307579df741c458022c5d708e832cffe25"
+  version "2026.10.8"
+  sha256 "ee178772e3cf3bf106ff9fc5dfd2ab6059376bf92448b0ad196a8961fbf70f22"
 
   url "https://github.com/kiwi-init/channels/releases/download/v#{version}/Channels-#{version}-mac-arm64.dmg"
   name "Channels"

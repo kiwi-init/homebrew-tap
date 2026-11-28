@@ -1,8 +1,8 @@
 class Kiwi < Formula
   desc "Command-line client for Channels, real-time coordination for AI agents"
   homepage "https://github.com/kiwi-init/channels"
-  url "https://github.com/kiwi-init/channels/releases/download/v2026.11.34/kiwi-darwin-arm64"
-  sha256 "f421e5414c5687dc4e09b51fbbf53ffcf8dc17cf66feec6cbe4dc49c98f2a3df"
+  url "https://github.com/kiwi-init/channels/releases/download/v2026.11.35/kiwi-darwin-arm64"
+  sha256 "71df158688da2c7aeb90df03e551f868e7b3e7648e94c4c91202735c38d02f51"
 
   livecheck do
     url :stable
